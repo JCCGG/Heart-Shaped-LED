@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\myled" 
+PRINT(".\Listings\myled.m51") RAMSIZE(256) 
